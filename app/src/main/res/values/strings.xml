@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="dark_sky_message"><a href="https://darksky.net/poweredby">POWERED BY DARK SKY</a></string>
+</resources>
